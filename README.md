@@ -23,6 +23,23 @@ dúvidas.
 
 ## Educação Complementar 🎯
  
+ - Introdução prática ao Figma (*Fev. de 2022*)
+ - Introdução ao ReactJS (*Fev. de 2022*)
+ - Coleções - JavaScript (*Jan. de 2022*)
+ - Debugging e Error Handling - JavaScript (*Jan. de 2022*)
+ - Funções - JavaScript (*Jan. de 2022*)
+ - JavaScript Assíncrono (*Jan. de 2022*)
+ - Manipulando a D.O.M com JavaScript (*Jan. de 2022*)
+ - Map, Filter e Reduce - JavaScript (*Jan. de 2022*)
+ - Orientação a Objetos em JavaScript (*Jan. de 2022*)
+ - Sintaxe e Operadores - JavaScript (*Jan. de 2022*)
+ - Variáveis e Tipos - JavaScript (*Jan. de 2022*)
+ - Introdução ao JavaScript (*Jan. de 2022*)
+ - Testes Automáticos e Teste de Software (*Jan. de 2022*)
+ - Aprenda o que são Estrutura de Dados e Algoritmos (*Dez. de 2021*)
+ - Boas-vindas ao Bootcamp MRV Fullstack Developer (*Dez. de 2021*)
+ - Construindo páginas para internet com Bootstrap (*Dez. de 2021*)
+ - Introdução a criação de websites com HTML5 e CSS3 (*Dez. de 2021*)
  - Inglês avançado, ICBEU (*Dez. de 2021*)
  - Introdução ao GIT/GITHUB, DIO (*Jul. de 2021*)
  - Algoritmos e estruturas de dados, DIO (*Jul. de 2021*)
