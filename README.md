@@ -4,6 +4,7 @@
    <img height="178px" width ="170px" alt="Nicolle-icon" src="https://i.picasion.com/pic91/e34e183333995366ba6606311f7bd52d.gif">
    <img height="178em" src="https://github-readme-stats.vercel.app/api?username=nicollesenam&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
    <img height="178em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicollesenam&layout=compact&langs_count=7&theme=midnight-purple"/>
+   <a align="center" href="https://nicollesenamportifolio.netlify.app" target="_blank"><img src="https://img.shields.io/badge/-Portifólio-50409a" target="_blank"></a>
   </div>
  
 ## Experiência Profissional 💻
@@ -22,40 +23,46 @@ sempre no prazo, ouvindo preocupações e respondendo
 dúvidas.
 
 ## Educação Complementar 🎯
- 
- - Introdução prática ao Figma (*Fev. de 2022*)
- - Introdução ao ReactJS (*Fev. de 2022*)
- - Coleções - JavaScript (*Jan. de 2022*)
- - Debugging e Error Handling - JavaScript (*Jan. de 2022*)
- - Funções - JavaScript (*Jan. de 2022*)
- - JavaScript Assíncrono (*Jan. de 2022*)
- - Manipulando a D.O.M com JavaScript (*Jan. de 2022*)
- - Map, Filter e Reduce - JavaScript (*Jan. de 2022*)
- - Orientação a Objetos em JavaScript (*Jan. de 2022*)
- - Sintaxe e Operadores - JavaScript (*Jan. de 2022*)
- - Variáveis e Tipos - JavaScript (*Jan. de 2022*)
- - Introdução ao JavaScript (*Jan. de 2022*)
- - Testes Automáticos e Teste de Software (*Jan. de 2022*)
- - Aprenda o que são Estrutura de Dados e Algoritmos (*Dez. de 2021*)
- - Boas-vindas ao Bootcamp MRV Fullstack Developer (*Dez. de 2021*)
- - Construindo páginas para internet com Bootstrap (*Dez. de 2021*)
- - Introdução a criação de websites com HTML5 e CSS3 (*Dez. de 2021*)
- - Inglês avançado, ICBEU (*Dez. de 2021*)
- - Introdução ao GIT/GITHUB, DIO (*Jul. de 2021*)
- - Algoritmos e estruturas de dados, DIO (*Jul. de 2021*)
- - Introdução à linguagem HTML, UDEMY (*Mar. de 2020*)
- - Introdução à linguagem CSS, UDEMY (*Mar. de 2020*)
- - Algoritmos e Lógica de Programação, UDEMY (*Maio. de 2020*)
- - Introdução à programação orientada a objetos, Fundação Bradesco (*Out. de 2020*)
+  
+ - Angular: Começando com o Framework (*Abril de 2022*) - Alura
+ - HTML5 e CSS3 parte 4: avançando no CSS (*Abril de 2022*) - Alura
+ - HTML5 e CSS3 parte 1: a primeira página da Web (*Mar. de 2022*) - Alura
+ - Introdução prática ao Figma (*Fev. de 2022*) - DIO (Digital Innovation One)
+ - Introdução ao ReactJS (*Fev. de 2022*) - DIO (Digital Innovation One)
+ - Coleções - JavaScript (*Jan. de 2022*) - DIO (Digital Innovation One)
+ - Debugging e Error Handling - JavaScript (*Jan. de 2022*) - DIO (Digital Innovation One)
+ - Funções - JavaScript (*Jan. de 2022*) - DIO (Digital Innovation One)
+ - JavaScript Assíncrono (*Jan. de 2022*) - DIO (Digital Innovation One)
+ - Manipulando a D.O.M com JavaScript (*Jan. de 2022*) - DIO (Digital Innovation One)
+ - Map, Filter e Reduce - JavaScript (*Jan. de 2022*) - DIO (Digital Innovation One)
+ - Orientação a Objetos em JavaScript (*Jan. de 2022*) - DIO (Digital Innovation One)
+ - Sintaxe e Operadores - JavaScript (*Jan. de 2022*) - DIO (Digital Innovation One)
+ - Variáveis e Tipos - JavaScript (*Jan. de 2022*) - DIO (Digital Innovation One)
+ - Introdução ao JavaScript (*Jan. de 2022*) - DIO (Digital Innovation One)
+ - Testes Automáticos e Teste de Software (*Jan. de 2022*) - UDEMY
+ - Aprenda o que são Estrutura de Dados e Algoritmos (*Dez. de 2021*) - DIO (Digital Innovation One)
+ - Boas-vindas ao Bootcamp MRV Fullstack Developer (*Dez. de 2021*) - DIO (Digital Innovation One)
+ - Construindo páginas para internet com Bootstrap (*Dez. de 2021*) - DIO (Digital Innovation One)
+ - Introdução a criação de websites com HTML5 e CSS3 (*Dez. de 2021*) - DIO (Digital Innovation One)
+ - Inglês avançado (*Dez. de 2021*) - ICBEU
+ - Introdução ao GIT/GITHUB (*Jul. de 2021*) - DIO (Digital Innovation One)
+ - Algoritmos e estruturas de dados (*Jul. de 2021*) - DIO (Digital Innovation One)
+ - Introdução à linguagem HTML (*Mar. de 2020*) - UDEMY
+ - Introdução à linguagem CSS (*Mar. de 2020*) - UDEMY
+ - Algoritmos e Lógica de Programação (*Maio. de 2020*) - UDEMY
+ - Introdução à programação orientada a objetos (*Out. de 2020*) - Fundação Bradesco 
 
  
-## Linguagens
+## Linguagens e Frameworks 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Nicolle-Js" height="30" width="70" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-  <img align="center" alt="Nicolle-HTML" height="30" width="70" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
-  <img align="center" alt="Nicolle-CSS" height="30" width="70" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
-  <img align="center" alt="Nicolle-Python" height="30" width="70" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
-  <img align="center" alt="Nicolle-Python" height="30" width="70" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+  <img align="center" alt="Nicolle-Js" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <img align="center" alt="Nicolle-HTML" height="60" width="71" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg">
+  <img align="center" alt="Nicolle-CSS" height="60" width="71" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg">
+  <img align="center" alt="Nicolle-BootStrap" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg">
+  <img align="center" alt="Nicolle-Angular" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
+  <img align="center" alt="Nicolle-TypeScript" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+
+
 </div>
  
 ## Contato 💬
