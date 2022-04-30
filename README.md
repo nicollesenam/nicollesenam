@@ -1,10 +1,11 @@
 ### Oi, eu sou a Nicolle (:
+ <a align="center" href="https://nicollesenamportifolio.netlify.app" target="_blank"><img src="https://img.shields.io/badge/-Portifólio-50409a" target="_blank"></a>
   <div>
    <a href="https://github.com/nicollesenam">
    <img height="178px" width ="170px" alt="Nicolle-icon" src="https://i.picasion.com/pic91/e34e183333995366ba6606311f7bd52d.gif">
    <img height="178em" src="https://github-readme-stats.vercel.app/api?username=nicollesenam&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
    <img height="178em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicollesenam&layout=compact&langs_count=7&theme=midnight-purple"/>
-   <a align="center" href="https://nicollesenamportifolio.netlify.app" target="_blank"><img src="https://img.shields.io/badge/-Portifólio-50409a" target="_blank"></a>
+  
   </div>
  
 ## Experiência Profissional 💻
