@@ -10,7 +10,7 @@
  
 ## Experiência Profissional 💻
    Estagiária<br>
- *Tribunal Regional do Trabalho da 11ª região | Out. de 2021 - presente*
+ *Tribunal Regional do Trabalho da 11ª região | Out. de 2021 - Jul. de 2022*
  - Prestar apoio em treinamento de usuários quanto a
 operação e instalação de software
  - Receber solicitações de serviços de apoio a usuários
@@ -22,6 +22,9 @@ ajustar menus com CSS e HTML).
  - Entrega de serviço excepcional para cada demandante,
 sempre no prazo, ouvindo preocupações e respondendo
 dúvidas.
+
+ Estagiária<br>
+ *Sidia Instituto de Ciência e Tecnologia | Jul. de 2022 - presente*
 
 ## Educação Complementar 🎯
   
