@@ -24,37 +24,14 @@ sempre no prazo, ouvindo preocupações e respondendo
 dúvidas.
 
  Estagiária<br>
- *Sidia Instituto de Ciência e Tecnologia | Jul. de 2022 - presente*
+ *Sidia Instituto de Ciência e Tecnologia | Jul. de 2022 - Dez de 2022*
+  
+ Desenvolvedora de Software<br>
+ *Sidia Instituto de Ciência e Tecnologia | Jan. de 2023 - Presente*
+
 
 ## Educação Complementar 🎯
-  
- - Angular: Começando com o Framework (*Abril de 2022*) - Alura
- - HTML5 e CSS3 parte 4: avançando no CSS (*Abril de 2022*) - Alura
- - HTML5 e CSS3 parte 1: a primeira página da Web (*Mar. de 2022*) - Alura
- - Introdução prática ao Figma (*Fev. de 2022*) - DIO (Digital Innovation One)
- - Introdução ao ReactJS (*Fev. de 2022*) - DIO (Digital Innovation One)
- - Coleções - JavaScript (*Jan. de 2022*) - DIO (Digital Innovation One)
- - Debugging e Error Handling - JavaScript (*Jan. de 2022*) - DIO (Digital Innovation One)
- - Funções - JavaScript (*Jan. de 2022*) - DIO (Digital Innovation One)
- - JavaScript Assíncrono (*Jan. de 2022*) - DIO (Digital Innovation One)
- - Manipulando a D.O.M com JavaScript (*Jan. de 2022*) - DIO (Digital Innovation One)
- - Map, Filter e Reduce - JavaScript (*Jan. de 2022*) - DIO (Digital Innovation One)
- - Orientação a Objetos em JavaScript (*Jan. de 2022*) - DIO (Digital Innovation One)
- - Sintaxe e Operadores - JavaScript (*Jan. de 2022*) - DIO (Digital Innovation One)
- - Variáveis e Tipos - JavaScript (*Jan. de 2022*) - DIO (Digital Innovation One)
- - Introdução ao JavaScript (*Jan. de 2022*) - DIO (Digital Innovation One)
- - Testes Automáticos e Teste de Software (*Jan. de 2022*) - UDEMY
- - Aprenda o que são Estrutura de Dados e Algoritmos (*Dez. de 2021*) - DIO (Digital Innovation One)
- - Boas-vindas ao Bootcamp MRV Fullstack Developer (*Dez. de 2021*) - DIO (Digital Innovation One)
- - Construindo páginas para internet com Bootstrap (*Dez. de 2021*) - DIO (Digital Innovation One)
- - Introdução a criação de websites com HTML5 e CSS3 (*Dez. de 2021*) - DIO (Digital Innovation One)
- - Inglês avançado (*Dez. de 2021*) - ICBEU
- - Introdução ao GIT/GITHUB (*Jul. de 2021*) - DIO (Digital Innovation One)
- - Algoritmos e estruturas de dados (*Jul. de 2021*) - DIO (Digital Innovation One)
- - Introdução à linguagem HTML (*Mar. de 2020*) - UDEMY
- - Introdução à linguagem CSS (*Mar. de 2020*) - UDEMY
- - Algoritmos e Lógica de Programação (*Maio. de 2020*) - UDEMY
- - Introdução à programação orientada a objetos (*Out. de 2020*) - Fundação Bradesco 
+Clique [aqui](https://www.linkedin.com/in/nicollesenam/details/certifications/) para ver todas minhas certificações!
 
  
 ## Linguagens e Frameworks 
