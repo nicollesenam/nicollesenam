@@ -2,13 +2,17 @@
  <a align="center" href="https://nicollesenamportifolio.netlify.app" target="_blank"><img src="https://img.shields.io/badge/-Portifólio-50409a" target="_blank"></a>
   <div>
    <a href="https://github.com/nicollesenam">
-   <img height="178px" width ="170px" alt="Nicolle-icon" src="https://i.picasion.com/pic91/e34e183333995366ba6606311f7bd52d.gif">
-   <img height="178em" src="https://github-readme-stats.vercel.app/api?username=nicollesenam&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-   <img height="178em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicollesenam&layout=compact&langs_count=7&theme=midnight-purple"/>
-  
   </div>
+
+  [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=4&theme=ocean_dark)](https://github-stats-extended.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=4&theme=ocean_dark)
  
 ## Experiência Profissional 💻
+ Desenvolvedora de Software<br>
+ *Sidia Instituto de Ciência e Tecnologia | Jan. de 2023 - Presente*
+
+  Estagiária<br>
+ *Sidia Instituto de Ciência e Tecnologia | Jul. de 2022 - Dez de 2022*
+ 
    Estagiária<br>
  *Tribunal Regional do Trabalho da 11ª região | Out. de 2021 - Jul. de 2022*
  - Prestar apoio em treinamento de usuários quanto a
@@ -23,13 +27,6 @@ ajustar menus com CSS e HTML).
 sempre no prazo, ouvindo preocupações e respondendo
 dúvidas.
 
- Estagiária<br>
- *Sidia Instituto de Ciência e Tecnologia | Jul. de 2022 - Dez de 2022*
-  
- Desenvolvedora de Software<br>
- *Sidia Instituto de Ciência e Tecnologia | Jan. de 2023 - Presente*
-
-
 ## Educação Complementar 🎯
 Clique [aqui](https://www.linkedin.com/in/nicollesenam/details/certifications/) para ver todas minhas certificações!
 
@@ -42,8 +39,9 @@ Clique [aqui](https://www.linkedin.com/in/nicollesenam/details/certifications/) 
   <img align="center" alt="Nicolle-BootStrap" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg">
   <img align="center" alt="Nicolle-Angular" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
   <img align="center" alt="Nicolle-TypeScript" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-
-
+  <img align="center" alt="Nicolle-Nest" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" />
+  <img align="center" alt="Nicolle-Next" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-plain.svg" />
+ <img align="center" alt="Nicolle-Node" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 </div>
  
 ## Contato 💬
